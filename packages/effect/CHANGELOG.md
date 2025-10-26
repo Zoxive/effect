@@ -1,5 +1,11 @@
 # effect
 
+## 3.18.5
+
+### Patch Changes
+
+- [#5628](https://github.com/Effect-TS/effect/pull/5628) [`52d5963`](https://github.com/Effect-TS/effect/commit/52d59635f35406bd27874ca0090f8642432928f4) Thanks @mikearnaldi! - Make sure AsEffect is computed
+
 ## 3.18.4
 
 ### Patch Changes
